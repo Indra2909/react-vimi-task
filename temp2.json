@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": "800935c1-39ac-4093-9e83-53b8932b0691",
+      "name": "Unbranded Soft Towels",
+      "status": "EDITING",
+      "type": "training",
+      "createdOn": "2023-06-15T02:11:04.149Z",
+      "archived": false
+    },
+    {
+      "id": "28660a7e-a41f-4167-8c4b-1da56bafd9a3",
+      "name": "Intelligent Rubber Ball",
+      "status": "INCOMPLETE",
+      "type": "educational",
+      "createdOn": "2021-06-15T02:11:04.149Z",
+      "archived": false
+    },
+    {
+      "id": "daf10306-6d80-446e-923c-d5b35554b17d",
+      "name": "Intelligent Fresh Bike",
+      "status": "EDITING",
+      "type": "educational",
+      "createdOn": "2022-06-15T02:11:04.149Z",
+      "archived": false
+    }
+  ]
+}
